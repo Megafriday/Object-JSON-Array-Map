@@ -21,4 +21,4 @@ const json2 = JSON.stringify(object);
 console.log("json2:", json2);		// {"鉛筆を買う":false,"勉強をする":true}
 
 const map2 = new Map(array);
-console.log("map2:", map2);			// { '鉛筆を買う' => false, '勉強をする' => true }
+console.log("map2:", map2);			// Map { '鉛筆を買う' => false, '勉強をする' => true }
